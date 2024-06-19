@@ -1,2 +1,20 @@
-# TADet
-The architecture of TADet includes an encoder and a decoder. Note: Backbone in the code corresponds to the encoder part of the TADet, and the neck and decode_heads parts correspond to the decoder part of the TADet.
+
+%# ESDIs-SOD dataset and A3Net
+We propose a novel Autocorrelation Aware Aggregation Network (A3Net) for salient object detection of strip steel surface defects.
+
+Paper：https://ieeexplore.ieee.org/document/10168949
+
+
+# ESDIs-SOD dataset
+We provide the ESDIs-SOD dataset:
+https://pan.baidu.com/s/1LRXD2O7dqV0XaapQyGvFAw?pwd=uk90 
+
+# Results of A3Net
+We provide the resutls of our A3Net(VGG16/Res2Net50/Swintransformer) on ESDIs-SOD dataset and SD-saliency-900 dataset；
+Saliency maps and pth of our A3Net on ESDIs-SOD dataset trained on ESDIs-SOD dataset； 
+Saliency maps and pth of our A3Net on SD-saliency-900 dataset trained on SD-saliency-900 dataset；
+https://pan.baidu.com/s/1N3JGnYmtKN_kAwx0ocrmxQ?pwd=l9v3 
+
+# Paper
+
+[2023-Autocorrelation-Aware Aggregation Network for Salient Object Detection of Strip Steel Surface Defects.pdf](https://github.com/VDT-2048/A3Net/files/13699191/2023-Autocorrelation-Aware.Aggregation.Network.for.Salient.Object.Detection.of.Strip.Steel.Surface.Defects.pdf)
