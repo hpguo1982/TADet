@@ -1,5 +1,5 @@
 
-%# ESDIs-SOD dataset and A3Net
+# ESDIs-SOD dataset and A3Net
 We propose a novel Autocorrelation Aware Aggregation Network (A3Net) for salient object detection of strip steel surface defects.
 
 Paper：https://ieeexplore.ieee.org/document/10168949
