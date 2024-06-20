@@ -1,7 +1,8 @@
 
 
 # SD-saliency-900 dataset
-The SD-saliency-900 dataset can refer to "EDRNet: Encoder-Decoder Residual Network for Salient Object Detection of Strip Steel Surface Defects".
+The SD-saliency-900 dataset can refer to "Saliency detection for strip steel surface 
+defects using multiple constraints and improved texture features".
 
 # Results of TADet
 We provide the resutls of our TADet(ResNet50) on SD-saliency-900 dataset;
