@@ -12,7 +12,6 @@ We provide the resutls of our proposed TADet on SD-saliency-900 dataset;
 Saliency maps and pth of our TADet on SD-saliency-900 dataset trained on SD-saliency-900 dataset；
 (link: https://pan.baidu.com/s/13shptjoT0MhKa1mCm9BY9g code: 7g5w) 
 
-You can download all the files including SD-saliency-900.zip, EDRNet_epoch_600.pth, Results in BaiduYun Drive.
 
 # Usage
 We conduct experiments using the MMSegmentation module within the OpenMMLab framework.
