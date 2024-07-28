@@ -14,4 +14,4 @@ Saliency maps and pth of our TADet on SD-saliency-900 dataset trained on SD-sali
 
 
 # Usage
-We conduct experiments using the MMSegmentation module within the OpenMMLab framework.
+We conduct experiments using the MMSegmentation module within the OpenMMLab framework. Please place the source code files in the corresponding positions of the MMSegmentation, and then run our TADet. 
